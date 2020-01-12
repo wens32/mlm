@@ -1,5 +1,5 @@
 
-# MLM Solutionjjj
+# MLM Solutionjjjp
 
 This MLM solution has six level of payments.\
 Levels are made using tree data structure(clusure table) which makes it better than all the recursive solutions out there.
@@ -11,7 +11,7 @@ Levels are made using tree data structure(clusure table) which makes it better t
 - Level payments (all through level six)
 - Paystack payments gateway 
 - Fast Tree Structure
-
+c
 ## Usage
 
 - clone this repository
