@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # MLM Solutionjjjp
+=======
+# MLM Solutionjjjf
+>>>>>>> 05de94d08ea7ec53899e9cd0e04b90f0c07fd6a0
 
 This MLM solution has six level of payments.\
 Levels are made using tree data structure(clusure table) which makes it better than all the recursive solutions out there.
